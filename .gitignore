@@ -1,0 +1,21 @@
+# Thư mục build của STM32CubeIDE / Eclipse
+Debug/
+Release/
+
+# File thực thi và file tạm của Keil C / IAR
+*.o
+*.d
+*.crf
+*.axf
+*.elf
+*.bin
+*.hex
+*.build_log.htm
+*.dep
+*.map
+*.lst
+
+# Cấu hình IDE cá nhân
+.settings/
+.project
+.cproject
